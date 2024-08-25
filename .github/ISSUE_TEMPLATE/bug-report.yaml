@@ -28,12 +28,17 @@ body:
   - type: dropdown
     id: list-selection
     attributes:
-      label: List Selection
-      description: list-desc
+      label: Quests chapter
+      description: Select the name of the quests chapter
       options:
-        - 0
-        - 1
-        - 2
+        - None
+        - Welcome
+        - Gadgets
+        - Primitive Beginnings
+        - Steamy Gears
+        - Wiring Up
+        - Black Sea Logic
+        - Space Radiations
     validations:
       required: true
         
