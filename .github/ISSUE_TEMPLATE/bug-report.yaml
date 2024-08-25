@@ -20,7 +20,7 @@ body:
       label: This issue has already been reported?
       description: Check if your issue is already reported
       options:
-        - label: -
+        - label: - Check
           required: false
           
   - type: dropdown
