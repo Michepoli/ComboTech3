@@ -31,7 +31,7 @@ body:
       label: Quests chapter
       description: Select the name of the quests chapter
       options:
-        - None
+        - No Chapter
         - Welcome
         - Gadgets
         - Primitive Beginnings
