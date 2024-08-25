@@ -17,12 +17,12 @@ body:
   - type: checkboxes
     id: optional
     attributes:
-      label: Optional
+      label: This issue has already been reported?
       description: optional-desc
       options:
-        - label: 1-option
+        - label: 1-yes
           required: false
-        - label: 2-option
+        - label: 2-no
           required: false
           
   - type: dropdown
