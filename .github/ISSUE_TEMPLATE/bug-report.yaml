@@ -52,8 +52,8 @@ body:
   - type: textarea
     id: large-text-box
     attributes:
-      label: Large Text Box
-      description: desc-large-box
+      label: Description
+      description: Write down the issue you have found and it's steps to reproduce it
       placeholder: example
     validations:
       required: true
