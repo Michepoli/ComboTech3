@@ -1,6 +1,6 @@
 name: Features Request
 description: Feedback
-labels: [Enhancment]
+labels: [Enhancement]
 assignees: Michepoli
 body:
   - type: checkboxes
