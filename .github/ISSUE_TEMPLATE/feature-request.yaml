@@ -1,6 +1,6 @@
 name: Features Request
-description: You found a bug
-labels: [bug]
+description: Feedback
+labels: [Feature Request]
 assignees: Michepoli
 body:
   - type: checkboxes
