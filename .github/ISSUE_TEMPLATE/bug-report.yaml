@@ -53,7 +53,7 @@ body:
     id: large-text-box
     attributes:
       label: Description
-      description: Write down the issue you have found and it's steps to reproduce it
+      description: Write down the issue you have found and its steps to reproduce it
       placeholder: example
     validations:
       required: true
