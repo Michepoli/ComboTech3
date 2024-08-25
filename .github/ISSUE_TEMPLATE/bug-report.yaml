@@ -18,7 +18,7 @@ body:
     id: optional
     attributes:
       label: This issue has already been reported?
-      description: optional-desc
+      description: Check if your issue is already reported
       options:
         - label: 1-yes
           required: false
