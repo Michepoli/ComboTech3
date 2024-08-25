@@ -4,17 +4,6 @@ labels: [bug]
 assignees: Michepoli
 body:
   - type: checkboxes
-    id: check-base
-    attributes:
-      label: Check Base
-      description: base-desc
-      options:
-        - label: 1-label required
-          required: true
-        - label: 2-label optional
-          required: false
-
-  - type: checkboxes
     id: optional
     attributes:
       label: This issue has already been reported?
@@ -39,16 +28,7 @@ body:
         - Space Radiations
     validations:
       required: true
-        
-  - type: input
-    id: text-box
-    attributes:
-      label: Text Box
-      placeholder: example
-      description: desc-box
-    validations:
-      required: true
-
+  
   - type: textarea
     id: large-text-box
     attributes:
