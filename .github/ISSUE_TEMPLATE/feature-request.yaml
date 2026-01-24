@@ -19,13 +19,18 @@ body:
       description: Select the name of the quests chapter where you wanna request your feature
       options:
         - No Chapter
-        - Welcome
-        - Gadgets
-        - Primitive Beginnings
-        - Steamy Gears
-        - Wiring Up
-        - Black Sea Logic
-        - Space Radiations
+        - Introduction
+        - Primitive 1
+        - Primitive 2
+        - Steam 1
+        - Steam 2
+        - RF1
+        - RF2
+        - RF3
+        - RF4
+        - RF5
+        - RF6
+        - RF7
     validations:
       required: true
   
